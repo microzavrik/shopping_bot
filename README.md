@@ -14,9 +14,10 @@ Welcome to the Telegram bot repository leveraging the aiogram library and SQLite
 - Targeted Messaging: Send messages based on specific user criteria.
 - Quick Responses: Create and utilize templates for frequently asked questions.
 
-### Technologies Used:
-Library: aiogram
-Database: SQLite3
+### Required libraries
+```
+pip install aiogram=2.* sqlite3
+```
 
 <hr>
 
