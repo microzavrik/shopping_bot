@@ -21,10 +21,22 @@ pip install aiogram=2.* sqlite3
 
 <hr>
 
-### Usage:
-- Clone the repository and install the required dependencies.
-- Configure SQLite3 for efficient database management.
-- Set up the bot with your Telegram API token.
-- Customize roles, templates, and functionalities to suit your needs.
-- Launch the bot and facilitate smooth communication between clients and administrators.
-- Discover the potential of this Telegram bot for streamlined client interactions and enhanced administration. Contribute, enhance, and make the most of this versatile communication tool! 🚀💬📊
+## Usage:
+
+Clone the Repository:
+
+```
+git clone https://github.com/sxaxq/shopping_bot
+cd shopping_bot
+```
+
+#### Configuration:
+
+Create a config.py file in the root directory.
+Define your Telegram bot API token and any other required parameters in config.py.
+
+```
+python main.py
+```
+
+Customize roles, templates, and functionalities in the bot to tailor it to your specific use case. Facilitate efficient communication and management with this feature-rich Telegram bot! 🚀💬📊
