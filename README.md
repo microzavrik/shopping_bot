@@ -22,9 +22,9 @@ pip install aiogram=2.* sqlite3
 <hr>
 
 ### Usage:
-Clone the repository and install the required dependencies.
-Configure SQLite3 for efficient database management.
-Set up the bot with your Telegram API token.
-Customize roles, templates, and functionalities to suit your needs.
-Launch the bot and facilitate smooth communication between clients and administrators.
-Discover the potential of this Telegram bot for streamlined client interactions and enhanced administration. Contribute, enhance, and make the most of this versatile communication tool! 🚀💬📊
+- Clone the repository and install the required dependencies.
+- Configure SQLite3 for efficient database management.
+- Set up the bot with your Telegram API token.
+- Customize roles, templates, and functionalities to suit your needs.
+- Launch the bot and facilitate smooth communication between clients and administrators.
+- Discover the potential of this Telegram bot for streamlined client interactions and enhanced administration. Contribute, enhance, and make the most of this versatile communication tool! 🚀💬📊
